@@ -13,44 +13,55 @@
 
 <div id="body" align="center">
   <h2 align="center">Tengo conocimientos en</h2>
-  <i class="devicon-html5-plain-wordmark colored"></i>
-  <i class="devicon-css3-plain-wordmark colored"></i>
-  <i class="devicon-javascript-plain colored"></i>
-  <i class="devicon-mysql-plain-wordmark colored"></i>
-  <i class="devicon-nodejs-plain-wordmark"></i>
-  <i class="devicon-postgresql-plain-wordmark colored"></i>
-  <i class="devicon-react-original-wordmark colored"></i>
-  <i class="devicon-redux-original colored"></i>
-  <i class="devicon-sequelize-plain-wordmark colored"></i>
-  <i class="devicon-ubuntu-plain-wordmark colored"></i>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=50 />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain-wordmark.svg" width=50/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" width=50/>
+
+ <h2 align="center">Actualmente estoy aprendiendo</h2>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width=50/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width=50/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width=50/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width=50/>
+
+
+
+  <h3 align="center">Lo que me gusta hacer:</h3> 
+  <p align="center">Me gusta afrontar nuevos desafios en camino como desarrollador full stack, especialmente explorar otros ambitos de desarrollo como el movile o el destop.
+  </p>
+  
+  <h3 align="center">Metas para 2023:</h3>
+  <p align="center">Afianzar mis conocimientos y experiencias en los lenguajes y frameworks mas solicitados del mercado laboral, especialmente Angular, NextJs y NestJs
+  Conseguir mi primer laburo como desarrollador full stack</p>
+  
+  <h3 align="center">Logro relevante:</h3>
+  <p align="center">Logre mejorar mis habilidades de programacion al ingresar al curso de desarrollo full stack de SoyHenry.
+  </p>
+  
+  <h3 align="center">Interesado en:</h3>
+  <p align="center">desarrollo de aplicaciones de escritorio, desarrollo de aplicaciones moviles, frontend.
+  </p>
+  
+
 </div>
           
 
+<div id="footer" align="center">
+  <h2 align="center">Información de contacto</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=50> https://www.linkedin.com/in/maximilianomartinatto/</img>
+  <p align="center">Correo electrónico: martinattomaximiliano@gmail.com</p>
 
-<div id="body" align="center">
- <h2 align="center">Actualmente estoy aprendiendo</h2>
- <i class="devicon-typescript-plain colored"></i>
- <i class="devicon-angularjs-plain colored"></i
- <i class="devicon-nestjs-plain colored"></i>
- <i class="devicon-nextjs-original-wordmark"></i>
- <i class="devicon-tailwindcss-original-wordmark colored"></i>
 </div>
 
 
 
-Lo que me gusta hacer:
-Me gusta afrontar nuevos desafios en camino como desarrollador full stack, especialmente explorar otros ambitos de desarrollo como el movile o el destop.
 
-Metas para 2023:
-Afianzar mis conocimientos y experiencias en los lenguajes y frameworks mas solicitados del mercado laboral, especialmente Angular, NextJs y NestJs
-Conseguir mi primer laburo como desarrollador full stack
 
-Logro relevante
-Logre mejorar mis habilidades de programacion al ingresar al curso de desarrollo full stack de SoyHenry.
-
-Interesado en:
-desarrollo de aplicaciones de escritorio, desarrollo de aplicaciones moviles, frontend.
-
-Información de contacto
-Linkedin: https://www.linkedin.com/in/maximilianomartinatto/
-Correo electrónico: martinattomaximiliano@gmail.com
