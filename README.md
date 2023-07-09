@@ -11,11 +11,32 @@
 
 </div>
 
+<div id="body" align="center">
+  <h2 align="center">Tengo conocimientos en</h2>
+  <i class="devicon-html5-plain-wordmark colored"></i>
+  <i class="devicon-css3-plain-wordmark colored"></i>
+  <i class="devicon-javascript-plain colored"></i>
+  <i class="devicon-mysql-plain-wordmark colored"></i>
+  <i class="devicon-nodejs-plain-wordmark"></i>
+  <i class="devicon-postgresql-plain-wordmark colored"></i>
+  <i class="devicon-react-original-wordmark colored"></i>
+  <i class="devicon-redux-original colored"></i>
+  <i class="devicon-sequelize-plain-wordmark colored"></i>
+  <i class="devicon-ubuntu-plain-wordmark colored"></i>
+</div>
+          
 
-Actualmente estoy aprendiendo:
-React-native,
-Angular,
-Next js y Nest.
+
+<div id="body" align="center">
+ <h2 align="center">Actualmente estoy aprendiendo</h2>
+ <i class="devicon-typescript-plain colored"></i>
+ <i class="devicon-angularjs-plain colored"></i
+ <i class="devicon-nestjs-plain colored"></i>
+ <i class="devicon-nextjs-original-wordmark"></i>
+ <i class="devicon-tailwindcss-original-wordmark colored"></i>
+</div>
+
+
 
 Lo que me gusta hacer:
 Me gusta afrontar nuevos desafios en camino como desarrollador full stack, especialmente explorar otros ambitos de desarrollo como el movile o el destop.
