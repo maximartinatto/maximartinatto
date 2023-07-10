@@ -3,10 +3,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
   <h1 align="center">Hola, Soy Maximiliano</h1>
-  <h3 align="center">Un gran apasionado de la programación. Cuando no estoy estudiando o programando, estoy     
-   haciendo algunas de mis actividades favoritas, como entrenar en el gimnasio, entrenar karate o jugar 
-   videojuegos. Me encanta hacer cosas útiles y divertidas con la programación, especialmente aplicaciones web,  
-   escuchar diferentes tipos de música, compartir con amigos y mucho más.
+  <h3 align="center">Soy un gran apasionado de la programación. Cuando no estoy estudiando o programando, estoy haciendo algunas de mis actividades favoritas, como entrenar en el gimnasio, entrenar 
+  karate o jugar videojuegos. Me encanta investigar y aprender mas sobre programacion, tecnologia, idiomas, cultura, escuchar diferentes tipos de música, compartir con amigos y mucho más.
   </h3>
 
 </div>
